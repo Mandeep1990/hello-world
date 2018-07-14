@@ -1,3 +1,3 @@
 # hello-world
 Hello Everyone
-I Am mobile development and design student. I am interetsd to kearn a new technologies  
+I Am Mobile application Design and Development student. I am interetsd to learn a new technologies.   
